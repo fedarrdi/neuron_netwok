@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ADMIN/CLionProjects/chess_neuron_network/a.h
+
+C:/Users/ADMIN/CLionProjects/chess_neuron_network/ai.c
+a.h
+C:/Users/ADMIN/CLionProjects/chess_neuron_network/a.h
+
+C:/Users/ADMIN/CLionProjects/chess_neuron_network/chess.c
+a.h
+C:/Users/ADMIN/CLionProjects/chess_neuron_network/a.h
+
+C:/Users/ADMIN/CLionProjects/chess_neuron_network/main.c
+stdio.h
+-
+a.h
+C:/Users/ADMIN/CLionProjects/chess_neuron_network/a.h
+time.h
+-
+conio.h
+-
+stdlib.h
+-
+

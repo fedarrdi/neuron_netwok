@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/ADMIN/CLionProjects/chess_neuron_network/cmake-build-debug/CMakeFiles/chess_neuron_network.dir/embed.manifest"

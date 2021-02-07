@@ -1,0 +1,3 @@
+C:/Users/ADMIN/CLionProjects/chess_neuron_network/cmake-build-debug/CMakeFiles/chess_neuron_network.dir
+C:/Users/ADMIN/CLionProjects/chess_neuron_network/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ADMIN/CLionProjects/chess_neuron_network/cmake-build-debug/CMakeFiles/rebuild_cache.dir
